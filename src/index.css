@@ -12,6 +12,23 @@ body {
   font-family: Italic;
 }
 
+.buttonInicio{
+  color: white;
+  font-family: Italic;
+}
+
+.iniciooregistrocard{
+  background-color: aliceblue;
+  justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.button2{
+  margin-bottom: auto;
+  justify-content: end;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
