@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from '../components/navbar';
 import Miajuega from '../components/miajuega';
+import Footer from '../components/footer';
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
         <Miajuega />
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
